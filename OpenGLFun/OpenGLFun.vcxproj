@@ -91,7 +91,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\glfw\include;C:\glew\include;C:\glm\glm;</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\glfw\include;C:\glew\include;C:\glm\glm;C:\glm\glm\gtx;</AdditionalIncludeDirectories>
       <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
     </ClCompile>
     <Link>
